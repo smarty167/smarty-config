@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "updated": "2026-11-02T15:27:22+05:30",
+  "games": {
+    "com.smarty.splatpot": {
+      "package": "com.smarty.splatpot",
+      "name": "Splatpot",
+      "apk_version": "1.6 (vc7)",
+      "stores": {
+        "itch": {
+          "status": "live",
+          "url": "https://smartygames-studio.itch.io/splatpot",
+          "updated": "2026-10-31"
+        },
+        "apkpure": {
+          "status": "pending",
+          "url": "",
+          "updated": "2026-11-02"
+        },
+        "softonic": {
+          "status": "review",
+          "url": "",
+          "updated": "2026-11-02"
+        },
+        "uptodown": {
+          "status": "revision",
+          "url": "",
+          "updated": "2026-11-02"
+        },
+        "gamedistribution": {
+          "status": "review",
+          "url": "",
+          "updated": "2026-11-02"
+        },
+        "crazygames": {
+          "status": "rejected",
+          "url": "",
+          "updated": "2026-11-01"
+        }
+      },
+      "notes": "CrazyGames rejected (quality bar). Uptodown pending revision, no message. GameDistribution activation requested."
+    },
+    "com.smarty.gatestorm": {
+      "package": "com.smarty.gatestorm",
+      "name": "Gatestorm",
+      "apk_version": "1.0",
+      "stores": {
+        "itch": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "apkpure": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "softonic": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "uptodown": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "gamedistribution": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "crazygames": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        }
+      },
+      "notes": ""
+    },
+    "com.smarty.loopyloads": {
+      "package": "com.smarty.loopyloads",
+      "name": "Loopy Loads",
+      "apk_version": "1.0",
+      "stores": {
+        "itch": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "apkpure": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "softonic": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "uptodown": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "gamedistribution": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "crazygames": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        }
+      },
+      "notes": ""
+    },
+    "com.smarty.turfquake": {
+      "package": "com.smarty.turfquake",
+      "name": "Turfquake",
+      "apk_version": "1.0",
+      "stores": {
+        "itch": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "apkpure": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "softonic": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "uptodown": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "gamedistribution": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "crazygames": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        }
+      },
+      "notes": ""
+    },
+    "com.smarty.crumbcrusade": {
+      "package": "com.smarty.crumbcrusade",
+      "name": "Crumb Crusade",
+      "apk_version": "1.0",
+      "stores": {
+        "itch": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "apkpure": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "softonic": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "uptodown": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "gamedistribution": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "crazygames": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        }
+      },
+      "notes": ""
+    }
+  }
+}
