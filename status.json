@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02T15:27:22+05:30",
+  "updated": "2026-11-02T16:21:00+05:30",
   "games": {
     "com.smarty.splatpot": {
       "package": "com.smarty.splatpot",
@@ -157,6 +157,44 @@
     "com.smarty.crumbcrusade": {
       "package": "com.smarty.crumbcrusade",
       "name": "Crumb Crusade",
+      "apk_version": "1.0",
+      "stores": {
+        "itch": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "apkpure": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "softonic": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "uptodown": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "gamedistribution": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        },
+        "crazygames": {
+          "status": "not_uploaded",
+          "url": "",
+          "updated": ""
+        }
+      },
+      "notes": ""
+    },
+    "com.smarty.giiiii": {
+      "package": "com.smarty.giiiii",
+      "name": "Top 1",
       "apk_version": "1.0",
       "stores": {
         "itch": {
