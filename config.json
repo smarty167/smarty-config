@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02T15:49:00+05:30",
+  "updated": "2026-11-02T16:21:00+05:30",
   "global": {
     "ads_enabled": true,
     "maintenance": "",
@@ -137,6 +137,38 @@
     },
     "com.smarty.crumbcrusade": {
       "name": "Crumb Crusade",
+      "ads": {
+        "enabled": true,
+        "rewarded": true,
+        "interstitial": true,
+        "inter_first_level": 6,
+        "inter_every_levels": 3,
+        "inter_min_gap_sec": 120,
+        "skip_inter_after_rewarded": true
+      },
+      "update": {
+        "min_version_code": 1,
+        "latest_version_code": 1,
+        "message": "",
+        "url": ""
+      },
+      "notice": {
+        "text": "",
+        "url": "",
+        "id": ""
+      },
+      "coins_multiplier": 1,
+      "daily_reward_multiplier": 1,
+      "promo": {
+        "enabled": false,
+        "title": "",
+        "url": "",
+        "icon": ""
+      },
+      "events": []
+    },
+    "com.smarty.giiiii": {
+      "name": "Top 1",
       "ads": {
         "enabled": true,
         "rewarded": true,
