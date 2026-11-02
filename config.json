@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02T16:21:00+05:30",
+  "updated": "2026-11-02T18:45:00+05:30",
   "global": {
     "ads_enabled": true,
     "maintenance": "",
@@ -133,7 +133,22 @@
         "url": "",
         "icon": ""
       },
-      "events": []
+      "events": [
+        {
+          "id": "big-news-1102",
+          "title": "Big news!!",
+          "subtitle": "बच्चों के लिए सुपर ऑफर!!!!!!",
+          "type": "banner",
+          "start": "2026-11-02T18:43:00+05:30",
+          "end": "2026-11-03T18:43:00+05:30",
+          "params": {},
+          "color": "#0EA5E9",
+          "image": "https://smarty167.github.io/smarty-config/img/big-news-1102-mvza5tsp.jpg",
+          "url": "",
+          "priority": 1,
+          "teaser": true
+        }
+      ]
     },
     "com.smarty.crumbcrusade": {
       "name": "Crumb Crusade",
